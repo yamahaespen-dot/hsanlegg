@@ -1,4 +1,4 @@
-Fargepalett: Industriell estetikk – mørk antrasitt / skifergrå, ren hvit, og kontrastfarger med høy synlighet (som oransje eller anleggsgul brukt sparsommelig på knapper/CTA).
+Fargepalett: Industriell estetikk: mørk antrasitt / skifergrå, ren hvit, og kontrastfarger med høy synlighet (som oransje eller anleggsgul brukt sparsommelig på knapper/CTA).
 
 Typografi: Rene, moderne sans-serif-skrifttyper (f.eks. Inter eller Roboto) som skalerer godt på mobilenheter.
 

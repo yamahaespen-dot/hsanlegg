@@ -1,0 +1,1 @@
+Selskapsnavn: H.S Anlegg.   Geografisk fokus: Lokalmiljøet og omliggende områder som Drammen.   Målgruppe: Private husbyggere, lokale bedrifter og generalentreprenører som trenger pålitelig maskinutleie med sjåfør eller vintervedlikehold.   Verditilbud: Pålitelighet, lokal ekspertise, erfarent personell og allsidige kapasiteter innen tunge maskiner.

@@ -1,0 +1,8 @@
+# Raw source media – kept locally, not part of the published site
+assets/images/fra-hs/
+assets/videos/
+assets/sertifiseringer/*_05-Oct-26/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
